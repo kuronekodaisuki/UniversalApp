@@ -16,8 +16,9 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Media.Animation;
 using Windows.UI.Xaml.Navigation;
 
-using WindowsPreview.Media.Ocr;
-
+//using WindowsPreview.Media.Ocr;
+//using Emgu.CV;
+//using Emgu.Util;
 
 // The Blank Application template is documented at http://go.microsoft.com/fwlink/?LinkId=234227
 
